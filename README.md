@@ -1,6 +1,6 @@
 Hi! I'm ZicPowa, a game developer using Unity. 
 
-I create indie games. 
+I create indie games as well as program other projects.
 
 
 
