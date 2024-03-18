@@ -1,6 +1,7 @@
 Hi! I'm ZicPowa, a game developer using Unity. 
 
 I create indie games as well as program other projects.
+I'm also beginning to learn fullstack web development.
 
 
 
